@@ -24,11 +24,17 @@ Total Supply: 888,888,888 MBT
 初始分配 (Initial Allocation)
 類別	份額	百分比
 創始團隊 (Founders & Team)	188,888,888 MBT	21%
+
 創始人預留持有 (Founder’s Reserved Holding)	88,888,888 MBT	(包含於團隊配額)
+
 生態系統與獎勵 (Ecosystem & Rewards)	250,000,000 MBT	28%
+
 流動性與交易所掛牌 (Liquidity & Exchange Listings)	200,000,000 MBT	22%
+
 市場行銷與合作夥伴 (Marketing & Partnerships)	150,000,000 MBT	17%
+
 儲備基金 (Reserve Fund)	100,000,000 MBT	12%
+
 智能合約地址
 🔗 MBT Contract Address: 0xFB1e7433fAA3a25063A12FCf0BB25D3885A3fbde
 
@@ -81,12 +87,19 @@ Total Supply: 888,888,888 MBT
 
 Initial Allocation
 Category	Allocation	Percentage
+
 Founders & Team	188,888,888 MBT	21%
+
 Founder’s Reserved Holding	88,888,888 MBT	(Included in Team Allocation)
+
 Ecosystem & Rewards	250,000,000 MBT	28%
+
 Liquidity & Exchange Listings	200,000,000 MBT	22%
+
 Marketing & Partnerships	150,000,000 MBT	17%
+
 Reserve Fund	100,000,000 MBT	12%
+
 Smart Contract Address
 🔗 MBT Contract Address: 0xFB1e7433fAA3a25063A12FCf0BB25D3885A3fbde
 
